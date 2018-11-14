@@ -27,3 +27,5 @@ To follow along (on UNIX-based systems, but only minor modifications required fo
 	`cd decisions-games-ai`
   
 	`jupyter notebook`
+	
+	Open the relevant file.  To view as slides, press `ALT+R` or the icon on the right of the toolbar in Jupyter.
