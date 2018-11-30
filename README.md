@@ -21,6 +21,8 @@ To follow along (on UNIX-based systems, but only minor modifications required fo
 5. Get the course materials from GitHub:
 
 	`git clone https://github.com/shanest/decisions-games-ai.git`
+	
+	or download as a zip file using the green "Clone or Download" button above.  (Note that the slides will change over the duration of the course, so you will need to do this more than once.)
 
 6. View:
 
@@ -29,3 +31,9 @@ To follow along (on UNIX-based systems, but only minor modifications required fo
 	`jupyter notebook`
 	
 	Open the relevant file.  To view as slides, press `ALT+R` or the icon on the right of the toolbar in Jupyter.
+
+## Other Useful Materials
+
+* Brian Weatherson, "Lecture Notes on Decision Theory": http://brian.weatherson.org/DTBook-15.pdf
+* Michael Resnik, _Choices_
+* Martin Peterson, _An Introduction to Decision Theory_
