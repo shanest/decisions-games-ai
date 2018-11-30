@@ -35,5 +35,7 @@ To follow along (on UNIX-based systems, but only minor modifications required fo
 ## Other Useful Materials
 
 * Brian Weatherson, "Lecture Notes on Decision Theory": http://brian.weatherson.org/DTBook-15.pdf
+* Brian Weatherson, "Lecture Notes on Game Theory": http://brian.weatherson.org/StA-GameTheoryNotes.pdf
 * Michael Resnik, _Choices_
 * Martin Peterson, _An Introduction to Decision Theory_
+* Ken Binmore, _Playing for Real_
