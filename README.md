@@ -39,3 +39,4 @@ To follow along (on UNIX-based systems, but only minor modifications required fo
 * Michael Resnik, _Choices_
 * Martin Peterson, _An Introduction to Decision Theory_
 * Ken Binmore, _Playing for Real_
+* Shoham and Leyton-Brown, _Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations_.  Downloadable at: http://www.masfoundations.org
